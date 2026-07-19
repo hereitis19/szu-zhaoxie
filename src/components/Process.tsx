@@ -3,7 +3,7 @@
 import { motion } from "framer-motion";
 
 const steps = [
-  { number: 1, title: "报名", desc: "填写问卷星报名问卷" },
+  { number: 1, title: "报名", desc: "填写报名问卷" },
   { number: 2, title: "初审", desc: "工作人员审核报名材料" },
   { number: 3, title: "面试", desc: "初审合格者进入面试" },
   { number: 4, title: "确定", desc: "择优聘任，公示后确认" },

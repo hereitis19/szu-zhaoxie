@@ -17,7 +17,7 @@ export default function Apply() {
           <div className="text-4xl mb-3">📝</div>
           <h2 className="text-2xl md:text-3xl font-bold">立即报名加入招协</h2>
           <p className="text-white/80 mt-2 text-sm md:text-base">
-            填写问卷星报名问卷，开启你的招协之旅
+            填写报名问卷，开启你的招协之旅
           </p>
 
           <div className="flex flex-col items-center mt-6">
