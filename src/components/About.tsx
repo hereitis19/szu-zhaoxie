@@ -40,7 +40,7 @@ export default function About() {
 
           <div className="mt-6 rounded-2xl overflow-hidden shadow-lg relative w-full h-48 md:h-64 bg-[#F0F1F3]">
             <Image
-              src="/images/scene.png"
+              src="/images/scene.jpg"
               alt="深圳大学校园风景"
               fill
               className="object-cover"

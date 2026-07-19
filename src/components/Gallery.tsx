@@ -7,8 +7,8 @@ const images = [
   { id: 1, src: "/images/activity-1.jpg", label: "寒招宣讲会现场" },
   { id: 2, src: "/images/activity-2.jpg", label: "明信片漂流活动" },
   { id: 3, src: "/images/activity-3.jpg", label: "校园开放日咨询" },
-  { id: 4, src: "/images/activity-4.jpg", label: "寒招物资打包" },
-  { id: 5, src: "/images/activity-5.jpg", label: "招生咨询会" },
+  { id: 4, src: "/images/activity-4.jpg", label: "寒招队长面试" },
+  { id: 5, src: "/images/activity-5.jpg", label: "招生咨询群培训会" },
   { id: 6, src: "/images/activity-6.jpg", label: "志愿者合影" },
 ];
 
