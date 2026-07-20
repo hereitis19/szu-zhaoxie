@@ -102,7 +102,7 @@ export default function Hero() {
         className="absolute bottom-6 left-1/2 -translate-x-1/2 z-20 cursor-pointer flex flex-col items-center gap-1 text-white/80 hover:text-white transition-colors"
         onClick={scrollToNext}
       >
-        <span className="text-sm sm:text-lg tracking-widest">下滑了解详情</span>
+        <span className="text-base sm:text-[25px] tracking-widest">下滑了解详情</span>
         <motion.div
           animate={{ y: [0, 8, 0] }}
           transition={{
