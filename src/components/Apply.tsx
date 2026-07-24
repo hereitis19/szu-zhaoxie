@@ -57,10 +57,7 @@ export default function Apply() {
             </div>
           </div>
 
-          <div className="mt-6 text-white/70 text-sm space-y-1">
-            <p>联系人：武老师 0755-26535843</p>
-            <p>地址：汇元楼339室</p>
-          </div>
+         
         </motion.div>
       </div>
     </section>

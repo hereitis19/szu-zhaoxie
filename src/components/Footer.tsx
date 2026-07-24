@@ -43,9 +43,9 @@ export default function Footer() {
 
           {/* 右侧：联系方式 + 公众号 */}
           <div>
-            <h4 className="text-white font-medium text-sm mb-2">联系方式</h4>
 
-            <p className="text-sm text-white/50">0755-26535843</p>
+
+
             <div className="mt-2 inline-block">
               <div className="w-20 h-20 relative rounded-xl overflow-hidden bg-white/10">
                 <Image
